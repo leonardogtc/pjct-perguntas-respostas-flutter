@@ -1,0 +1,23 @@
+total 88
+drwxrwxr-x 14 leonardogtc leonardogtc 4096 ago  9 13:24 .
+drwxrwxr-x  3 leonardogtc leonardogtc 4096 ago  9 12:26 ..
+-rw-rw-r--  1 leonardogtc leonardogtc 1420 ago  9 12:26 analysis_options.yaml
+drwxrwxr-x  7 leonardogtc leonardogtc 4096 ago  9 13:07 android
+drwxrwxr-x  7 leonardogtc leonardogtc 4096 ago  9 13:08 build
+drwxrwxr-x  5 leonardogtc leonardogtc 4096 ago  9 13:07 .dart_tool
+-rw-rw-r--  1 leonardogtc leonardogtc    0 ago  9 13:24 file.txt
+drwxrwxr-x  6 leonardogtc leonardogtc 4096 ago  9 13:20 .git
+-rw-rw-r--  1 leonardogtc leonardogtc  709 ago  9 12:26 .gitignore
+drwxrwxr-x  4 leonardogtc leonardogtc 4096 ago  9 12:26 .idea
+drwxrwxr-x  7 leonardogtc leonardogtc 4096 ago  9 12:26 ios
+drwxrwxr-x  2 leonardogtc leonardogtc 4096 ago  9 12:26 lib
+drwxrwxr-x  4 leonardogtc leonardogtc 4096 ago  9 12:26 linux
+drwxrwxr-x  7 leonardogtc leonardogtc 4096 ago  9 12:26 macos
+-rw-rw-r--  1 leonardogtc leonardogtc 1706 ago  9 12:26 .metadata
+-rw-rw-r--  1 leonardogtc leonardogtc  842 ago  9 12:26 projeto_perguntas.iml
+-rw-rw-r--  1 leonardogtc leonardogtc 6071 ago  9 12:26 pubspec.lock
+-rw-rw-r--  1 leonardogtc leonardogtc 3844 ago  9 12:26 pubspec.yaml
+-rw-rw-r--  1 leonardogtc leonardogtc  560 ago  9 12:26 README.md
+drwxrwxr-x  2 leonardogtc leonardogtc 4096 ago  9 12:26 test
+drwxrwxr-x  3 leonardogtc leonardogtc 4096 ago  9 12:26 web
+drwxrwxr-x  4 leonardogtc leonardogtc 4096 ago  9 12:26 windows
